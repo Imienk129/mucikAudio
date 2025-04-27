@@ -1,4 +1,3 @@
-// app/_layout.tsx
 import { Tabs } from "expo-router";
 import { Feather } from "@expo/vector-icons";
 

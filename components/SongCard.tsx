@@ -33,7 +33,7 @@ const styles = StyleSheet.create({
     shadowOffset: { width: 0, height: 2 },
     shadowOpacity: 0.3,
     shadowRadius: 3,
-    elevation: 5, // buat Android
+    elevation: 5,
   },
   image: {
     width: 60,
